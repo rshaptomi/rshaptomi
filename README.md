@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="300" alt="Efat Ahmed banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Efat Ahmed banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shaptomi Roy .</h1>
